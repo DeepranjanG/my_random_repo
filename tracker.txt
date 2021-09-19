@@ -8,3 +8,10 @@ tiger
 deer
 bulb
 
+
+
+
+
+fench
+spanish
+dutch
